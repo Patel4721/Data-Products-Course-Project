@@ -80,10 +80,4 @@ p + scale_fill_gradient(low = "#fff5eb", high = "#d94801")
 
 ![plot of chunk unnamed-chunk-1](Medicare-Spending-figure/unnamed-chunk-1-1.png) 
 
-```r
-p
-```
-
-![plot of chunk unnamed-chunk-1](Medicare-Spending-figure/unnamed-chunk-1-2.png) 
-
 

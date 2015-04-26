@@ -75,7 +75,6 @@ p <- p + expand_limits(x = states_map$long, y = states_map$lat)
 p <- p + coord_map() + theme_bw()
 p <- p + labs(x = "Long", y = "Lat", title = "Medicare Spending by State")
 p + scale_fill_gradient(low = "#fff5eb", high = "#d94801")
-p
 ```
 
 
