@@ -18,7 +18,7 @@ library(mapproj)
 library(maps)
 
 # Load helper functions
-source("helpers.R", local = TRUE)
+source("helpers.r", local = TRUE)
 
 # Load data
 states_map <- map_data("state")
