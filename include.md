@@ -17,7 +17,7 @@ The data was processed as follows:
 2. Data related to overseas locations were removed
 3. Numeric data was cleaned up to remove $ and commas
 
-Source code is available on the [GitHub](https://github.com/zero323/developing-data-products-shiny).
+Source code is available on the [GitHub](https://github.com/Patel4721/Data-Products-Course-Project).
 
 What you can do:
 
